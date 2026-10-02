@@ -8,3 +8,4 @@ work in progress, not ready
 line A
 line B
 line C
+function logAction(a) { console.log('LOG:', a); }
